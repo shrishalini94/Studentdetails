@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": 20,
+      "dob": "2004-05-15"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 22,
+      "dob": "2002-08-30"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "age": 21,
+      "dob": "2003-10-10"
+    }
+  ]
+  
